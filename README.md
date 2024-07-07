@@ -3,6 +3,8 @@
 This is a fullstack application for sharing random ideas. 
 
 This app includes a Node.js/Express REST API that uses MongoDB for a database. The client-side is built with Webpack.
+![image](https://github.com/LucasSD/random-ideas/assets/71330905/6489cb15-b019-4951-97d2-5619af258c92)
+
 
 ## Usage
 
